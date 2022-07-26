@@ -7,10 +7,3 @@ int main()
 	return 0;
 }
 
-// gcc program1.c  -o  Myexe
-
-// Windows
-// Myexe
-
-// Linux / MacOS
-// ./Myexe
