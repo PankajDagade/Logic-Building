@@ -11,7 +11,7 @@ import java.lang.*;
 //Input: ---
 //Output: Jay Ganesh
 //Date: 26/07/2022
-//Author: Pankaj Dagade
+//Author: Pankaj Vishnu Dagade
 //
 /////////////////////////////////////////////
 //////////////////////
