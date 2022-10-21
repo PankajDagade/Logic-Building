@@ -5,7 +5,7 @@
 //  Input :              Integer, Integer
 //  Output :            Integer
 //  Date :               12/04/2022
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Pankaj Vishnu Dagade
 //
 /////////////////////////////////////////////////////////////////////
 
