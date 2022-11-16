@@ -6,8 +6,8 @@
 //
 //Function Name:     CheckPallindrome
 //Description  :     Check Pallindrome number from whole number
-//Input        :     123456
-//Output       :     12
+//Input        :     --
+//Output       :     --
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
