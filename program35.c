@@ -6,7 +6,7 @@
 //Function Name:     SumDigits
 //Description  :     SumDigits from whole number
 //Input        :     12345
-//Output       :     5
+//Output       :     15
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
