@@ -6,7 +6,7 @@
 //Function Name:     DisplayEven
 //Description  :     DisplayEven from whole number
 //Input        :     12345
-//Output       :     5
+//Output       :     6
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
@@ -29,7 +29,7 @@ int SumEven(int iNo)
         {
             iSum = iSum + iDigit;
         }
-        iNo = iNo /10;
+        iNo = iNo/10;
     }
     return iSum;
 }
@@ -50,10 +50,7 @@ int main()
 
 ////////////////////////////////////////////////////////////////
 //
-//Input - Enter number : 12345678
-//Output - 8
-//         6
-//         4
-//         2
-//
+//Input - Enter number : 12345
+//Output - Summation of even digits are : 6
+//        
 ////////////////////////////////////////////////////////////////
