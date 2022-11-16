@@ -4,9 +4,9 @@
 //////////////////////////////////////
 //
 //Function Name:     DisplayEven
-//Description  :     DisplayEven from whole number
+//Description  :     Display Even 
 //Input        :     12345
-//Output       :     5
+//Output       :     4 2
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
@@ -47,10 +47,7 @@ int main()
 
 ////////////////////////////////////////////////////////////////
 //
-//Input - Enter number : 12345678
-//Output - 8
-//         6
-//         4
-//         2
-//
+//Input - Enter number : 12345
+//Output - 4 2
+//   
 ////////////////////////////////////////////////////////////////
