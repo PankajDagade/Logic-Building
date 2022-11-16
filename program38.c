@@ -6,7 +6,7 @@
 //Function Name:     Reverse
 //Description  :     Reverse number from whole number
 //Input        :     123456
-//Output       :     12
+//Output       :     654321
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
@@ -45,6 +45,6 @@ int main()
 ////////////////////////////////////////////////////////////////
 //
 //Input - Enter number : 123456
-//Output - 654321
+//Output - Reverse number is: 654321
 //
 ////////////////////////////////////////////////////////////////
