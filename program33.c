@@ -5,8 +5,8 @@
 //
 //Function Name:     DisplayDigits
 //Description  :     Seperate digits from whole number
-//Input        :     6587
-//Output       :     7856
+//Input        :     --
+//Output       :     --
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
@@ -23,7 +23,7 @@ void DisplayDigits(int iNo)
     while(iNo != 0)
     {
         iDigit = iNo % 10;
-        printf("%d\n",iDigit);
+        printf("%d",iDigit);
         iNo = iNo /10;
     }
 }
@@ -43,6 +43,9 @@ int main()
 ////////////////////////////////////////////////////////////////
 //
 //Input - Enter number : 6587
-//Output - 7856
+//Output - 7
+           8
+           5
+           6
 //
 ////////////////////////////////////////////////////////////////
