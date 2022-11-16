@@ -5,8 +5,8 @@
 //
 //Function Name:     SumFactors
 //Description  :     Accept number from user and display its SumFactors
-//Input        :     10
-//Output       :     8
+//Input        :     --
+//Output       :     --
 //Date         :     29/04/2022
 //Author       :     Pankaj Vishnu Dagade
 //
@@ -47,10 +47,10 @@ int main()
 
 ////////////////////////////////////////////////////////////////
 //
-//Input - 10
-//Output -  8 
+//Input - Enter number : 10
+//Output -  Sum of factors : 8 
 //
-//Input - 9
-//Output - 4
+//Input - Enter number : 9             
+//Output - Sum of factors : 4
 //
 ////////////////////////////////////////////////////////////////
