@@ -21,7 +21,7 @@ void DisplayEven(int iNo)
     {
         iNo = -iNo;
     }
-	printf("Even number are : ");
+    printf("Even number are : ");
     while(iNo > 0)
     {
         iDigit = iNo % 10;
