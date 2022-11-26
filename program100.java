@@ -27,10 +27,8 @@ class Pattern{
 					System.out.print(" ");
 				}
 			for(int k = 1 ; k <= iCol ; k++)
-			{
 				if((i == (iRow/2) + 1))
 					System.out.print("*");
-			}
 			System.out.println("");
 		}
 	}
