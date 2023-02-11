@@ -1,14 +1,14 @@
 /*
 
-* * * * * *
-     *
-     *
-     *
-     *
- * * * * * *
+ *       *
+ *       *
+ * * * * *
+ *       *
+ *       *
  
+ rows = 5  column = 5
  */
-
+ 
 import java.lang.*;
 import java.util.*;
 
@@ -28,7 +28,7 @@ class Pattern
 		for(int i = 1 ; i <= iRow ; i++)
 		{
 			for(int j = 1 ; j <= iCol ; j++)
-				if( i == 1 || i == iRow || j == ((iCol/2)) )
+				if( j == 1 || j == iCol || i == ((iRow/2)+1) )
 					System.out.print(" *");
 				else
 					System.out.print("  ");
@@ -36,7 +36,7 @@ class Pattern
 		}
 	}
 }
-class program101
+class program102
 {
 	public static void main(String args[])
 	{

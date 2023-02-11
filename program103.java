@@ -1,13 +1,15 @@
 /*
 
-* * * * * *
-     *
-     *
-     *
-     *
- * * * * * *
- 
- */
+ * * * * * * *
+ *           *
+ * * * * * * *
+ *
+ *
+ *
+ *
+
+rows = 6  columns = 6
+*/
 
 import java.lang.*;
 import java.util.*;
@@ -24,11 +26,11 @@ class Pattern
 	
 	public void Display()
 	{
-		System.out.println();
-		for(int i = 1 ; i <= iRow ; i++)
+		System.out.println("\n");
+		for(int i = 0 ; i <= iRow ; i++)
 		{
-			for(int j = 1 ; j <= iCol ; j++)
-				if( i == 1 || i == iRow || j == ((iCol/2)) )
+			for(int j = 0 ; j <= iCol ; j++)
+				if( i == 0 || j == 0 ||  i == ((iRow-1)/2) ||  i < ((iRow-1)/2) &&  j == ((iCol-1)+1) )
 					System.out.print(" *");
 				else
 					System.out.print("  ");
@@ -36,7 +38,7 @@ class Pattern
 		}
 	}
 }
-class program101
+class program103
 {
 	public static void main(String args[])
 	{
